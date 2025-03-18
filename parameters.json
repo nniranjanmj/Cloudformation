@@ -1,0 +1,22 @@
+[
+    {
+      "ParameterKey": "InstanceType",
+      "ParameterValue": "t2.micro"
+    },
+    {
+      "ParameterKey": "KeyName",
+      "ParameterValue": "Fortigate"
+    },
+    {
+      "ParameterKey": "SSHLocation",
+      "ParameterValue": "0.0.0.0/0"
+    },
+    {
+      "ParameterKey": "AMIId",
+      "ParameterValue": "ami-05c179eced2eb9b5b"
+    },
+    {
+      "ParameterKey": "InstanceName",
+      "ParameterValue": "Niranjan"
+    }
+]
